@@ -17,6 +17,12 @@ The project reads and displays metadata stored in MP3 files using ID3v2.3 tags.
 - Read TXXX user-defined text frames
 - Process MP3 files using binary file handling
 
+## Program Flow
+
+The following diagram illustrates the flow of the MP3 Tag Reader program.
+
+![MP3 Tag Reader Flow Diagram](images/flowchart.png)
+
 ## Project Structure
 
 ```text
